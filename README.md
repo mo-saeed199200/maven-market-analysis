@@ -59,6 +59,7 @@ Maven Market needed a clear view of brand performance, regional sales distributi
  
 -  ## Overall
 
+- Maven Market revenue uncreased frim 1.55M to 1.59M
 - total monthly returns increased with 2.9% as 496 compared to 482 the previous month.
 - total monthly profit jumped from 45.92k and reached 59.67k with an increase of 30%.
 - total monthly orders increased from 17.34k to 18.33k with an increase of 5.69%
